@@ -1,7 +1,7 @@
-{ "version": "2.48.4"
+{ "version": "2.51.2"
   , "url": "https://github.com/bcpierce00/unison/releases/download/v2.51.2/unison-windows-2.51.2-text.zip"
-, "bin": [["unison 2.51.2 text.exe", "unison"]]
-  , "hash": "0738a6978fa29bb2af409322069cc20df293b770877942ac4b8774f06e774aa5"
-, "homepage": "http://www.cis.upenn.edu/~bcpierce/unison/"
-, "license": "GPL3"
+  , "bin": [["unison 2.51.2 text.exe", "unison"]]
+  , "hash": "9c1e1fca202dd1e7f55b82c1abf632ee546424253284a062839e7a7212a180bf"
+  , "homepage": "http://www.cis.upenn.edu/~bcpierce/unison/"
+  , "license": "GPL3"
 }
